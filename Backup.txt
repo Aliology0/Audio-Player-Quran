@@ -1,0 +1,27 @@
+Playlist 1
+Name: Ali
+Surah Name: Al Fatiha (Yasser Al-Dosari)
+Surah Type: Makki
+Surah Path: ..\Quran
+Surah Name: Al Ikhlas (Yasser Al-Dosari)
+Surah Type: Makki
+Surah Path: ..\Quran
+
+Playlist 2
+Name: Amr
+Surah Name: Al Fatiha (Abdul Basit 'Abd us-Samad)
+Surah Type: Makki
+Surah Path: ..\Quran
+Surah Name: Al Qalam (Abdul Basit 'Abd us-Samad)
+Surah Type: Makki
+Surah Path: ..\Quran
+
+Playlist 3
+Name: Mohamed
+Surah Name: Al Fatiha (Muhammad Siddiq Al-Minshawi)
+Surah Type: Makki
+Surah Path: ..\Quran
+Surah Name: Nooh (Yasser Al-Dosari)
+Surah Type: Makki
+Surah Path: ..\Quran
+

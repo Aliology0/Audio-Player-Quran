@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "E:/College/Project 2 (Ali Emad) (Eng Amr)/Audio Player App(Quran)/",
+                "C:/SFML-2.5.1/include",
+                "C:/SFML-2.5.1/lib",
+                "C:/SFML-2.5.1/bin"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerPath": "C:/msys64/ucrt64/bin/g++.exe"
+        }
+    ],
+    "version": 4
+}
